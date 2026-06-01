@@ -1,2 +1,3 @@
 # Mohsinabbas-demo
- Modern business portfolio website with smooth animation,  premium design and latest responsive UI.
+ Modern business portfolio website with smooth animation
+ Auther- Mohsin Abbas
